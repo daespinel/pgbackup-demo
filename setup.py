@@ -10,7 +10,7 @@ setup(
     author_email='dafespinelsa@gmail.com',
     description='A utility for backing up PostgreSQL databases',
     long_description=long_description,
-    long_description_content_type='text/marldown',
+    long_description_content_type='text/markdown',
     url='https://github.com/linusacademy/pgbackup',
     packages=find_packages('src')
 )
